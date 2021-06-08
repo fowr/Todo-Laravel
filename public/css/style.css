@@ -1,0 +1,82 @@
+*{
+    font-family: 'B yekan'!important;
+
+}
+body {
+    min-height: 100vh;
+    direction: rtl;
+    color: rgb(122, 122, 122);
+    
+
+   }
+   .nav-link{
+       color: rgb(93, 93, 93)!important;
+       font-size: 150%;
+   }
+   nav li{
+       padding: 0 50px;
+   }
+   .navbar-brand{
+    font-size: 200%!important;
+    color: rgb(10, 10, 10)!important;
+    font-weight: 900;
+}
+
+   h1,
+   h2,
+   h3,
+   h4 {
+       color: #646464;
+   }
+
+    .bg-light{
+       direction: rtl!important;
+
+ 
+    }
+
+    .active{
+        border-bottom: 1px solid;
+    }
+   .float-left {
+       float: left;
+   }
+   
+   .alert {
+       padding: .5rem;
+   }
+   
+   .card {
+       background-color: #efefef4d;
+   }
+   
+   .list-group-item {
+       color: rgb(92, 92, 92);
+       background: inherit;
+   }
+   
+   .card-header {
+       font-size: 1.5rem;
+       font-weight: 600;
+   }
+   
+   .form-control {
+   
+       color: #585858;
+       background-color: #d8d8d82e;
+       background-clip: padding-box;
+       border: 1px solid #90909080;
+   }
+   
+   ::placeholder {
+       color: #e4e4e4 !important;
+   }
+   
+   .card-body {
+       color: #424242;
+   }
+   
+   *:focus {
+       background-color: #d8d8d82e !important;
+   
+   }
